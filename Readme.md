@@ -77,4 +77,13 @@ ROC-AUC : 0.8259
 - Logistic Regression outperforms across all key metrics, particularly in identifying the minority class (churners).
 
 
+## 👤 Author
+
+**Souhail HMAHMA** — Full Stack Developer
+
+🌐 [souhail3.vercel.app](https://souhail3.vercel.app) · 💼 [LinkedIn](https://linkedin.com/in/souhail-hmahma) · 🐙 [GitHub](https://github.com/souhmahma)
+
+
+
+
 
